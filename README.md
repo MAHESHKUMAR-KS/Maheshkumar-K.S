@@ -4,11 +4,11 @@ AI & Data Science student passionate about full-stack development, AI, and probl
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MAHESHKUMAR-KS&show_icons=true&theme=tokyonight)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MAHESHKUMAR-KS&theme=github_dark)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=MAHESHKUMAR-KS&theme=tokyonight)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MAHESHKUMAR-KS&theme=github_dark)
 
 ---
 
