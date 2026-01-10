@@ -3,12 +3,12 @@
 AI & Data Science student passionate about full-stack development, AI, and problem solving.
 
 ---
-
 ## 📊 GitHub Statistics
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MAHESHKUMAR-KS&theme=github_dark)
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MAHESHKUMAR-KS&theme=github_dark)
+
 
 ---
 
