@@ -1,20 +1,20 @@
 # Hi, I'm Maheshkumar KS 👋
 
-🧠 AI & DS student passionate about full-stack development, AI, and problem solving.
+AI & Data Science student passionate about full-stack development, AI, and problem solving.
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maheshkumar-K.S&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MAHESHKUMAR-KS&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Maheshkumar-K.S&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=MAHESHKUMAR-KS&theme=tokyonight)
 
 ---
 
 ## 📈 Contribution Activity
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Maheshkumar-K.S&theme=github-dark)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=MAHESHKUMAR-KS&theme=github-dark)
 
 
 ## 📌 GitHub Summary
