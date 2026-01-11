@@ -3,11 +3,16 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Maheshkumar-K.S&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Maheshkumar-K.S&theme=tokyonight)
+<table>
+<tr><td>⭐ Stars</td><td>6</td></tr>
+<tr><td>🍴 Forks</td><td>3</td></tr>
+<tr><td>🔥 All-time contributions</td><td>2,060</td></tr>
+<tr><td>➕ Lines of code changed</td><td>12,346,877</td></tr>
+<tr><td>👁 Repository views (last 2 weeks)</td><td>127</td></tr>
+<tr><td>📦 Repositories with contributions</td><td>45</td></tr>
+</table>
 
 ---
 
@@ -23,7 +28,7 @@
 - 🔥 Consistent contributor with hands-on project work  
 - 🚀 Focused on MERN stack, Java, Python, and databases  
 
----
+
 
 ### 📫 Connect with me
 - GitHub: https://github.com/Maheshkumar-K.S
