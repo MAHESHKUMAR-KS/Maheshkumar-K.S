@@ -1,26 +1,20 @@
-# Hi, I'm Maheshkumar KS 👋  
-🧠 AI & DS Student passionate about full-stack development, AI, and problem solving.
+# Hi, I'm Maheshkumar KS 👋
+
+AI & Data Science student passionate about full-stack development, AI, and problem solving.
 
 ---
-
 ## 📊 GitHub Statistics
 
-<table>
-<tr><td>⭐ Stars</td><td>6</td></tr>
-<tr><td>🍴 Forks</td><td>3</td></tr>
-<tr><td>🔥 All-time contributions</td><td>2,060</td></tr>
-<tr><td>➕ Lines of code changed</td><td>12,346,877</td></tr>
-<tr><td>👁 Repository views (last 2 weeks)</td><td>127</td></tr>
-<tr><td>📦 Repositories with contributions</td><td>45</td></tr>
-</table>
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MAHESHKUMAR-KS&theme=github_dark)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MAHESHKUMAR-KS&theme=github_dark)
 
 ---
 
 ## 📈 Contribution Activity
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Maheshkumar-K.S&theme=react-dark)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=MAHESHKUMAR-KS&theme=github-dark)
 
----
 
 ## 📌 GitHub Summary
 
